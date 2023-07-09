@@ -1,5 +1,6 @@
 
-# TodoList
+# TodoList 
+(the project is under development)
 
 This is a simple TodoList application built using React and TypeScript. It allows users to create, update, and delete tasks, as well as mark them as completed.
 
