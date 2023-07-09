@@ -16,7 +16,7 @@ const App: React.FC = () => {
   }
 
   function todoRemoveHandler(id: string) : void {
-    console.log(id);
+    // console.log(id);
     setTodos((prevTodos) => {
       return prevTodos.filter((item) => {
         return item.id !== id;
