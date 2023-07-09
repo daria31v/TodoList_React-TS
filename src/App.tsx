@@ -28,6 +28,7 @@ const App: React.FC = () => {
     <div className="App">
       <AddTodo onAddTodo={todoAddHandler} />
       <TodoList onRemoveTodo={todoRemoveHandler} todos={todos} />
+      
     </div>
   );
 };
